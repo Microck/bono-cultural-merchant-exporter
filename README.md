@@ -1,9 +1,3 @@
-Of course. Here is the revised `README.md` content with improved Markdown formatting for better readability on GitHub. I've used headings, code blocks, and inline code formatting to make it clean and professional.
-
-I also updated the `git clone` command with the correct URL from your link.
-
----
-
 # Bono Cultural Merchant Exporter
 
 A Python script that scrapes all online merchants from Spain's "Bono Cultural Joven" API and exports them to a CSV file.
