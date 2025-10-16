@@ -1,2 +1,2 @@
 # bono-cultural-merchant-exporter
-A Python script that scrapes all online merchants from the Spanish "Bono Cultural Joven" API and exports them to a CSV file.
+This project contains a Python script designed to automatically extract a complete and up-to-date list of all online establishments participating in Spain's "Bono Cultural Joven" program. By directly querying the official API, the script efficiently bypasses HTML parsing, iterates through all available pages of results, and collects the name, website, and product categories for each merchant. It also translates the raw category data into a user-friendly Spanish format, saving the final, clean list into a structured CSV file for easy searching and filtering.
